@@ -1,0 +1,216 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    /* background-color: rgb(240, 238, 236); */
+}
+body{
+    background-color: rgb(248, 248, 248);
+}
+.one{
+    background-color: aqua;
+    display: flex;
+    height: 100px;
+}
+.two{
+    background-color: rgb(255, 229, 207);
+    display: flex;
+}
+.norm{
+    position: relative;
+    left: 230px;
+    height: 452px;
+    width: 462px;
+    top: 29px;
+    border-radius: 50%;
+}
+.helloi{
+    padding-bottom: 30px;
+    position: relative;
+    background-color: rgb(248, 248, 248);
+    width: 1020px;
+    left: 495px;
+    font-size: 2em;
+    letter-spacing: .04em;
+}
+.hello{
+    font-size: 82px;
+    padding: 30px;
+}
+.myname{
+    padding: 30px;
+}
+.three{
+    position: relative;
+    background-color: rgb(255, 229, 207);
+    top: 100px;
+    height: 400px;
+}
+.ai{
+    position: relative;
+    background-color: rgb(248, 248, 248);
+    width: 820px;
+    font-size: 2em;
+    height: 400px;
+    letter-spacing: 0.04em;
+    left: 3px;
+    padding: 20px;
+}
+.little{
+    font-size: 62px;
+}
+.skillset{
+    position: relative;
+    top: -140px;
+    left: 300px;
+    font-size: 42px;
+    border-radius: 5px;
+}
+.btn{
+    position: relative;
+    display: block;
+    left: 990px;
+    top: -250px;
+    width: 200px;
+}
+.html{
+    position: absolute;
+    top: -80px;
+    height: 60px;
+    width: 800px;
+    border-radius: 10px;
+    font-size: 30px;
+}
+.css{
+    position: relative;
+    width: 800px;
+    height: 60px;
+    border-radius: 10px;
+    top: -43px;
+    font-size: 30px;
+}
+.java{
+    top: -20px;
+    position: relative;
+    width: 800px;
+    height: 60px;
+    border-radius: 10px;
+    font-size: 30px;
+}
+.react{
+    top: 4px;
+    position: relative;
+    width: 800px;
+    height: 60px;
+    border-radius: 10px;
+    font-size: 30px;
+}
+.four{
+    position: relative;
+    background-color: rgb(255, 229, 207);
+    height: 620px;
+    top: 200px;
+}
+.want{
+    position: relative;
+    left: 760px;
+    width: 470px;
+    font-size: 45px;
+    top: 20px;
+}
+form{
+    position: inherit;
+    width: 500px;
+    left: 500px;
+    top: 50px;
+}
+.name{
+    position: inherit;
+    font-size: 23px;
+}
+.na{
+    position: relative;
+    height: 45px;
+    width: 1000px;
+    top: 9px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.email{
+    position: relative;
+    top: 40px;
+    font-size: 23px;
+}
+.em{
+    position: relative;
+    top: 50px;
+    height: 45px;
+    width: 1000px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.message{
+    position: relative;
+    top: 80px;
+    font-size: 23px;
+}
+.ma{
+    position: relative;
+    top: 95px;
+    height: 145px;
+    width: 1000px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+.send{
+    position: relative;
+    top: 130px;
+    height: 50px;
+    width: 70px;
+    border-radius: 5px;
+}
+.five{
+    background-color: rgb(255, 229, 207);
+    position: relative;
+    height: 200px;
+    top: 200px;
+}
+.fa-linkedin-in{
+    position: relative;
+    font-size: 80px;
+    left: 1450px;
+    top: 100px;
+}
+.fa-facebook-f{
+    position: relative;
+    font-size: 75px;
+    left: 1200px;
+    top: 95px;
+}
+.zuri{
+    position: relative;
+    top: 10px;
+    left: 500px;
+    width: 110px;
+}
+.i4g{
+    position: relative;
+    top: -220px;
+    left: 740px;
+    width: 180px;
+    height: 102px;
+}
+.hng{
+    position: relative;
+    top: -105px;
+    left: 1050px;
+    width: 110px;
+}
+.prac{
+    top: 200px;
+    position: relative;
+    background-color: blueviolet;
+}
+.fullname{
+    background-color: brown;
+}
