@@ -214,3 +214,162 @@ form{
 .fullname{
     background-color: brown;
 }
+
+
+
+@media(max-width:800px){
+    .norm{
+        left: 85px;
+        width: 200px;
+        height: 200px;
+    }
+    .helloi{
+        left: -169px;
+        font-size: 18px;
+        top: 240px;
+        width: 2000px;
+    }
+    .hello{
+        font-size: 22px;
+    }
+    .myname{
+        position: relative;
+        /* background-color: yellow; */
+        width: 300px;
+        top: -40px;
+    }
+    .three{
+        top: 300px;
+    }
+    .ai{
+        top: -130px;
+        left: 20px;
+        width: 320px;
+        background-color: whitesmoke;
+    }
+    .little{
+        position: relative;
+        left: 42px;
+        font-size: 22px;
+        width: 200px;
+    }
+    .enjoy{
+        position: relative;
+        font-size: 18px;
+        width: 292px;
+        left: -4px;
+    }
+    .btn{
+        left: -200px;
+        width: 20px;
+        top: 140px;
+        background-color: blue;
+    }
+    .skillset{
+        font-size: 32px;
+        width: 222px;
+        left: px;
+        /* background-color: burlywood; */
+    }
+    .html{
+        position: relative;
+        width: 282px;
+        height: 32px;
+        left: 240px;
+        top: -130px;
+    }
+    .css{
+        position: relative;
+        width: 282px;
+        height: 32px;
+        left: 240px;
+        top: -110px;
+    }
+    .java{
+        position: relative;
+        width: 282px;
+        height: 32px;
+        left: 240px;
+        top: -90px;
+    }
+    .react{
+        position: relative;
+        width: 282px;
+        height: 32px;
+        left: 240px;
+        top: -70px;
+    }
+    .four{
+        position: relative;
+        /* background-color: rgb(185, 91, 37); */
+        height: 22px;
+    }
+    .want{
+        left: 30px;
+        font-size: 32px;
+        top: 452px;
+        width: 300px;
+
+    }
+    form{
+        /* background-color: turquoise; */
+        left: 50px;
+        top: 500px;
+        width: 20px;
+    }
+    .na{
+        position: relative;
+        width: 282px;
+        height: 32px;
+        left: -10px;
+    }
+    .em{
+        position: relative;
+        width: 282px;
+        height: 32px;
+        left: -10px;
+    }
+    .ma{
+        position: relative;
+        width: 282px;
+        height: 92px;
+        left: -10px;
+    }
+    .name{
+        left: -8px;
+    }
+    .email{
+        width: 200px;
+        left: -8px;
+    }
+    .message{
+        width: 200px;
+        left: -8px;
+    }
+    .five{
+        position: relative;
+        height: 22px;
+    }
+    .zuri{
+        top: 1050px;
+        left: 30px;
+    }
+    .i4g{
+        top: 820px;
+        left: 160px;
+        height: 110px;
+    }
+    .hng{
+        top: 1050px;
+        left: 130px;
+    }
+    .fa-facebook-f{
+        top: 1000px;
+        left: 130px;
+    }
+    .fa-linkedin-in{
+        top: 1000px;
+        left: 80px;
+    }
+    
+}
