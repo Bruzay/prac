@@ -414,5 +414,19 @@ form{
         background-color: yellow;
         cursor: pointer;
     }
+    .get{
+        position: relative;
+        top: 160px;
+        left: 100px;
+    }
     
+}
+.get{
+    background-color: rgb(64, 218, 166);
+    height: 70px;
+    width: 160px;
+    border-radius: 10px;
+    font-size: 22px;
+    font-weight: 400;
+    /* background-color: rgb(255, 229, 207); */
 }
