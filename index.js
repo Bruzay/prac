@@ -1,3 +1,4 @@
-const name = "Samuel Ayoade";
+const getName = document.getElementById("getName")
 
-alert(`My name is ${name}`);
+ 
+getName.addEventListener("click",()=> alert("Samuel Ayoade") )
