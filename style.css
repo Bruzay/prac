@@ -268,11 +268,13 @@ form{
         left: 20px;
         width: 320px;
         background-color: whitesmoke;
+        font-size: 27px;
+        /* height: 500px; */
     }
     .little{
         position: relative;
         left: 42px;
-        font-size: 22px;
+        font-size: 37px;
         width: 200px;
     }
     .enjoy{
@@ -419,6 +421,12 @@ form{
         top: 160px;
         left: 100px;
     }
+    #getNamee{
+        position: relative;
+        top: 170px;
+        background-color: rgb(255, 229, 207);
+    }
+
     
 }
 .get{
@@ -429,4 +437,13 @@ form{
     font-size: 22px;
     font-weight: 400;
     /* background-color: rgb(255, 229, 207); */
+}
+#getNamee{
+    font-size: 40px;
+    /* background-color: yellow; */
+    height: 70px;
+    /* background-color: yellow; */
+    background-color: rgb(255, 229, 207);
+    width: 360px;
+    text-align: center;
 }
