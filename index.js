@@ -1,4 +1,9 @@
-const getName = document.getElementById("getName")
-
+let getNName = document.getElementById("getNamee")
+let namee = "Samuel Ayoade"
  
-getName.addEventListener("click",()=> alert("Samuel Ayoade") )
+function getName(){
+
+    getNName.innerText = namee
+}
+//getName.addEventListener("click",()=> alert("Samuel Ayoade") )
+
